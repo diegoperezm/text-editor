@@ -1,0 +1,6 @@
+this is a test for the text editor
+testing append and write file 
+testing insert ( before current line )
+testing change
+testing prefix (line number)  
+
